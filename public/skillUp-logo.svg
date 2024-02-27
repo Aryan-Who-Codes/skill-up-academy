@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="122.454 154.06 253.913 181.35">
+    <rect class="cls-1" x="311.18" y="303.82" width="10.54" height="10.54" style="fill: rgb(26, 0, 96);"></rect>
+    <rect class="cls-2" x="133.08" y="200.95" width="51.3" height="51.3" transform="translate(206.72 -45.87) rotate(45)" style="fill: rgb(255, 233, 141);"></rect>
+    <polygon class="cls-3" points="194.98 299.12 231.26 262.9 194.98 226.62 158.76 262.9 194.98 299.12" style="fill: rgb(252, 188, 139);"></polygon>
+    <polygon class="cls-3" points="194.98 226.62 231.26 190.34 194.98 154.06 158.76 190.34 194.98 226.62" style="fill: rgb(252, 188, 139);"></polygon>
+    <polygon class="cls-4" points="231.26 190.34 267.54 154.06 194.98 154.06 231.26 190.34" style="fill: rgb(249, 144, 136);"></polygon>
+    <polygon class="cls-4" points="194.98 299.12 267.54 299.12 231.26 262.9 194.98 299.12" style="fill: rgb(249, 144, 136);"></polygon>
+    <polygon class="cls-5" points="267.52 226.64 303.8 190.36 231.24 190.36 267.52 226.64" style="fill: rgb(242, 54, 131);"></polygon>
+    <rect class="cls-6" x="278.15" y="200.98" width="51.31" height="51.31" transform="translate(-71.27 281.2) rotate(-45)" style="fill: rgb(208, 43, 158);"></rect>
+    <rect class="cls-7" x="314.43" y="237.26" width="51.31" height="51.31" transform="translate(-86.3 317.48) rotate(-45)" style="fill: rgb(158, 27, 198);"></rect>
+    <polygon class="cls-6" points="303.8 335.41 340.08 299.19 303.8 262.92 267.52 299.19 303.8 335.41" style="fill: rgb(208, 43, 158);"></polygon>
+    <polygon class="cls-5" points="231.24 335.41 303.8 335.41 267.52 299.19 231.24 335.41" style="fill: rgb(242, 54, 131);"></polygon>
+</svg>
